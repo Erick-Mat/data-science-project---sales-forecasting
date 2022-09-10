@@ -1,4 +1,4 @@
-# data-science-project - sales-forecasting
+# Data-science-project - sales-forecasting
 Leitura e interpretação de dados para previsão de vendas
 
 ## Sobre:
@@ -12,11 +12,11 @@ O programa vai importar uma base de dados realizando um tratamento de valores e 
 
 ## Instalação e Execução:
 
-Instalação:
+### Instalação:
 - Pandas: pip install pandas
 - Seaborn: pip install seaborn
 - Matplotlib: pip install matplotlib
 - Sklearn: pip install scikit-learn
 
-Execução:
+### Execução:
 - python Sales Forecast.py
